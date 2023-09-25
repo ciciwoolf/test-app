@@ -28,7 +28,7 @@ yarn lint
 
 ### Customize configuration
 
-Use the following combination of versions and dependcies: 
+Use the following combination of versions and dependencies: 
 "dependencies": {
     "@testing-library/vue": "^6.4.2",
     "core-js": "^3.8.3",
